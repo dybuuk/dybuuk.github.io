@@ -1,0 +1,9 @@
+https://maps.googleapis.com/maps/api/staticmap?center=51.784864,19.4421888&zoom=14&size=400x400&key=
+
+
+AIzaSyCcMxaXcIe2RP9-iiZB0j-y68lhHAM3gmU
+
+                        <a href="#" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <a href="#" title="Behance" target="_blank"><i class="fa fa-behance"></i></a>
+                        <a href="#" title="LinkedIn+" target="_blank"><i class="fa fa-linkedin"></i></a>
+                        <a href="#" title="Pinterest" target="_blank"><i class="fa fa-pinterest"></i></a>
